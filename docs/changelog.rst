@@ -27,6 +27,11 @@ New features:
   the library without deleting media files.
   :bug:`5832`
 
+New features:
+
+* :doc:`plugins/mbsubmit`: Add new prompt choice "Create release on musicbrainz", automating
+  the process as much as possible.
+
 Bug fixes:
 
 * :doc:`plugins/musicbrainz`: fix regression where user configured
